@@ -1,0 +1,13 @@
+h1{
+  font-size: 20px;
+  color: purple;
+}
+
+.output{
+  color: rgb(65, 171, 207);
+  font-size: 25px;
+}
+
+.button{
+  outline: 2px solid blue;
+}
